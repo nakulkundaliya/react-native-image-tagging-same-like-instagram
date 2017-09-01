@@ -16,6 +16,9 @@ $ react-native run-android // for Android
 
 # Demo View #
 
+![alt text](https://github.com/nakulkundaliya/react-native-image-tagging-same-like-instagram/blob/master/assets/images/ios.gif)
+
+![alt text](https://github.com/nakulkundaliya/react-native-image-tagging-same-like-instagram/blob/master/assets/images/android.gif)
 
 # Run New project in Android / IOS #
 
