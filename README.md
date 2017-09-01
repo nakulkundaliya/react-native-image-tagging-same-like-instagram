@@ -14,6 +14,9 @@ $ react-native run-android // for Android
 
 `$ react-native init PhotoTagging`
 
+# Demo View #
+
+
 # Run New project in Android / IOS #
 
 Go to root folder of directory
